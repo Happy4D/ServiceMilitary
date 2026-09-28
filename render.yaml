@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: military-service
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
